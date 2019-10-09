@@ -65,8 +65,8 @@
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-                 <username>myMavenRepo</username>
-                 <password>password</password>
+            <username>myMavenRepo</username>
+            <password>password</password>
             <url>https://mymavenrepo.com/repo/tKNs47dVAfFZ3kY7m0jV/</url>
         </repository>
     </distributionManagement>
